@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Kick-off presentation, mapping efforts towards Responsible AI in Prague."
-categories: [ events ]
+categories: [ events, Prague ]
 image: assets/images/prague.png
-tags: [sticky, featured]
+tags: []
 ---
 
 What is happening in Prague in AI ethics, safety, governance, etc.? The field of artificial intelligence has recently experienced a new wave of interdisciplinary efforts interested in societal implications of AI. However, it is hard to keep track of the progress, especially given the usual divide between different scientific fields. The workshop aims to provide an unbiased overview of different subfields concerned with developing responsible AI technology, and to put them into perspective of

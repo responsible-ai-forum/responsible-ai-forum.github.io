@@ -1,6 +1,6 @@
 # Site
-name: 'Responsible AI+ Forum <small>@Prague</small>'
-name-direct: 'Responsible AI+ Forum'
+name: 'Responsible AI Forum <small>@Prague</small>'
+name-direct: 'Responsible AI Forum'
 description: ''
 logo: 'assets/images/logo.png' # TODO make a logo?
 favicon: 'assets/images/favicon.ico'
@@ -20,6 +20,15 @@ plugins:
     #  - jekyll-seo-tag
 
 authors:
+  rai-team:
+    name:       RAI Team
+    avatar:     assets/images/logo.png
+  martin-krutsky:
+    name:       Martin Krutsky
+    site:       https://martin-krutsky.github.io/
+    avatar:     assets/images/martink.jpg
+    bio:        "PhD student of AI at Czech Technical University interested in AI explainability, safety, and ethical use of AI."
+    email:      krutsma1@fel.cvut.cz
   #    sal:
   #      name:           Sal
   #      site:           https://www.wowthemes.net
@@ -44,8 +53,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      # author: sal
-      # avatar: /assets/images/avatar1.jpg
+      author: rai-team
+      avatar: assets/images/logo.png
 
   # all pages
   - scope:
