@@ -3,7 +3,7 @@ layout: post
 title: "RAI in Prague: A Recap"
 author: martin-krutsky
 categories: [events, Prague]
-image: assets/images/rai_prez_prague.png
+image: assets/images/dnyai2023/rai_prez_prague.png
 tags: [featured]
 ---
 
@@ -30,7 +30,7 @@ You already see that there are many approaches to the topic being discussed. To 
 
 Further, I constructed a 2-axis diagram, with one axis describing the timeframe of the impact that a particular field (or the problems the field tries to solve) might have and the other axis referring to the type of solution the field currently offers. Below is my best attempt at positioning the seven areas onto the diagram. Note that the positioning does not represent my idea of an ideal state. Instead, it represents _my view_ of the _current state_ of the fields.
 
-![Taxonomy compass of Responsible AI]({{ site.baseurl }}/assets/images/rai_taxonomy_compass.png "Taxonomy compass of RAI")
+![Taxonomy compass of Responsible AI]({{ site.baseurl }}/assets/images/dnyai2023/rai_taxonomy_compass.png "Taxonomy compass of RAI")
 
 You see some areas, namely _governance_, _environment_, and _ethics_, more or less skewed towards the socio-political extreme. This stems from the fact that tech people still haven’t caught up in their interest or overall involvement in matters such as regulations and policymaking. On the other hand, _security_, _trustworthiness_, and _safety_ are filled with technological suggestions for solutions, with AI explainability being one of the key objectives.\
 As for the impact axis, some areas have relatively long-term consequences in mind, such as safety caring about existential threats and philosophy caring about the implications of intelligent or even conscious machines. All the others would like to tackle present, rather urgent matters. Still, the reason for some of them being closer to the middle (ethics, trustworthiness) is our inability to resolve the issues effectively.

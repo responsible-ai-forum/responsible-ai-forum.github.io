@@ -2,7 +2,7 @@
 layout: post
 title:  "Kick-off presentation, mapping efforts towards Responsible AI in Prague."
 categories: [ events, Prague ]
-image: assets/images/prague.png
+image: assets/images/dnyai2023/prague.png
 tags: []
 ---
 

@@ -4,7 +4,7 @@ title: "Ethics in AI Development: A Recap"
 authors: [jiri-nemecek, martin-krutsky]
 categories: [events, Prague]
 image: assets/images/dnyai2024/main.jpg
-tags: [sticky, featured]
+tags: [featured]
 ---
 
 On Friday, October 18, 2024, during the AI Days’ “AI 4 ALL” event, we gave two talks on the ethics of AI from the perspective of technical researchers and developers. The first talk, tailored to high school students, opened the event in the morning; the second talk, aimed at the general public, closed the series of talks in the late afternoon. After each of our short talks, we addressed the audience’s questions and concerns. Find our slides [here](https://docs.google.com/presentation/d/1hff1E1leEp8UCkYFYkSVB6kaT4eRCDgdTNPlNI2AH7Q/edit?usp=sharing) (for the morning) and [here](https://docs.google.com/presentation/d/1jHsVROnLM1h-xbYdzsQ6ACpcxbsxJo5GLr6o6sYSOzY/edit?usp=sharing) (for the afternoon), both in Czech language. For English, see the [reworked version](https://docs.google.com/presentation/d/1EUJf3hqwnHiXamO1jI-NqyZXoDAp7O83fv3zbaa7EMc/edit?usp=sharing) or this summary below.

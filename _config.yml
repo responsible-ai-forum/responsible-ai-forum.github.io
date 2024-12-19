@@ -1,4 +1,5 @@
 # Site
+title: "Responsible AI Forum <small>@Prague</small>"
 name: "Responsible AI Forum <small>@Prague</small>"
 name-direct: "Responsible AI Forum"
 description: ""
@@ -24,10 +25,11 @@ authors:
     name: RAI Team
     avatar: assets/images/logo.png
   martin-krutsky:
-    name: Martin Krutsky
+    name: Martin Krutský
     site: https://martin-krutsky.github.io/
+    twitter: https://twitter.com/krutsky_martin
     avatar: assets/images/martink.jpg
-    bio: PhD student of AI at Czech Technical University interested in AI explainability, safety, and ethical use of AI.
+    bio: PhD student of AI at Czech Technical University interested in AI explainability, neuro-symbolic integration, and ethical AI.
     email: krutsma1@fel.cvut.cz
   jiri-nemecek:
     name: Jiří Němeček
@@ -36,6 +38,13 @@ authors:
     avatar: assets/images/jirin.jpg
     bio: PhD student of AI at Czech Technical University interested in AI explainability and Integer Optimization.
     email: contact@nemecekjiri.cz
+  jakub-peleska:
+    name: Jakub Peleška
+    site: https://jakubpeleska.cz/
+    twitter: https://twitter.com/jakub_peleska
+    avatar: assets/images/jakubp.jpg
+    bio: PhD student of AI at Czech Technical University interested in Relational Deep Learning and AI interpretability.
+    email: jakub.peleska@yahoo.com
   #    sal:
   #      name:           Sal
   #      site:           https://www.wowthemes.net

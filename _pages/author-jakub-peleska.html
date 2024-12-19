@@ -1,0 +1,46 @@
+---
+title: "Jakub Peleška"
+layout: default
+permalink: "/author-jakub-peleska.html"
+---
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="row align-items-center mb-5">
+        <div class="col-md-9">
+          <h2 class="font-weight-bold">
+            {{page.title}}
+            <span class="small btn btn-outline-success btn-sm btn-round"
+              ><a href="{{ site.authors.jakub-peleska.twitter }}"
+                >Follow</a
+              ></span
+            >
+          </h2>
+          <p>
+            <a href="{{ site.authors.jakub-peleska.site }}"
+              >{{ site.authors.jakub-peleska.site }}</a
+            >
+          </p>
+          <p class="excerpt">{{ site.authors.jakub-peleska.bio }}</p>
+        </div>
+        <div class="col-md-3 text-right">
+          <img
+            alt="{{ site.authors.jakub-peleska.name }}"
+            src="{{site.baseurl}}/{{ site.authors.jakub-peleska.avatar }}"
+            class="rounded-circle"
+            height="100"
+            width="100"
+          />
+        </div>
+      </div>
+      <h4 class="font-weight-bold spanborder">
+        <span>Posts by {{page.title}}</span>
+      </h4>
+      {% assign posts = site.posts | where:"author","jakub-peleska" %} {%
+      assign posts_multi = site.posts | where:"authors","jakub-peleska" %} {%
+      assign posts = posts | concat: posts_multi | sort: "date" | reverse %} {%
+      for post in posts %} {% include main-loop-card.html %} {% endfor %}
+    </div>
+  </div>
+</div>
