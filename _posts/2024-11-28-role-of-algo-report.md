@@ -32,8 +32,8 @@ To offer an alternative explanation (to echo chambers) for the current dynamics 
 
 The next part of John’s talk focused on epistemic agency—the control individuals have over forming beliefs. He described two types of control:
 
-1. **Intentional Control**: Rooted in rational, deliberate reasoning.
-1. **Evaluative Control**: Influenced by emotional or subconscious processes.
+1. **Intentional Control** involves deliberate and goal-directed management of belief formation through sustained attention. It is susceptible to biases, especially in information selection—agents often choose sources that align with their beliefs and dismiss contradictory evidence. 
+1. **Evaluative Control** is the automatic regulation of belief formation based on evidence and rational norms. Even then, it is prone to distortion by cognitive biases.
 
 Dorsch explained how algorithms often exploit evaluative control by leveraging cognitive biases rather than promoting rational thought. He posed the critical question: can algorithms be redesigned to encourage virtuous norms over divisive ones?
 
