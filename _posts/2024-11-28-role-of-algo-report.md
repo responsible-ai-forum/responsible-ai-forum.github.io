@@ -28,9 +28,6 @@ To offer an alternative explanation (to echo chambers) for the current dynamics 
 1. **Drivers of Partisanship**: Traditional drivers such as social sorting and economic divisions remain significant. However, Dorsch pointed out that algorithms introduce new dynamics, like heightened exposure to extremes, exacerbating affective polarization.
 
 
-![An example of a jailbroken bot on social media, tricked to suggest a cake recipe instead of hating NATO.]({{ site.baseurl }}/assets/images/dnyai2024/jailbreak.png "An example of a simple jailbreak")
-
-
 ## Algorithms and Epistemic Agency
 
 The next part of John’s talk focused on epistemic agency—the control individuals have over forming beliefs. He described two types of control:
