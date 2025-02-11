@@ -9,7 +9,9 @@ tags: [featured]
 
 On Friday, October 18, 2024, during the AI Days’ “AI 4 ALL” event, we gave two talks on the ethics of AI from the perspective of technical researchers and developers. The first talk, tailored to high school students, opened the event in the morning; the second talk, aimed at the general public, closed the series of talks in the late afternoon. After each of our short talks, we addressed the audience’s questions and concerns. Find our slides [here](https://docs.google.com/presentation/d/1hff1E1leEp8UCkYFYkSVB6kaT4eRCDgdTNPlNI2AH7Q/edit?usp=sharing) (for the morning) and [here](https://docs.google.com/presentation/d/1jHsVROnLM1h-xbYdzsQ6ACpcxbsxJo5GLr6o6sYSOzY/edit?usp=sharing) (for the afternoon), both in Czech language. For English, see the [reworked version](https://docs.google.com/presentation/d/1EUJf3hqwnHiXamO1jI-NqyZXoDAp7O83fv3zbaa7EMc/edit?usp=sharing) or this summary below.
 
-_Due to the different nature of the audience, we prepared two versions of a talk on the same topic. Here, we summarize the union of their contents in the hope that it will be of interest to our readers._
+_Due to the different nature of the audience, we prepared two versions of a talk on the same topic. In this post, we summarize the union of their contents in the hope that it will be of interest to our readers. Further, the recording of the first talk can be found below:_
+
+<p style="text-align: center;"><iframe width="672" height="378" src="https://www.youtube.com/embed/aAkGaBYdYX0?si=RyExS_AkoX6qYDLx; start=0000" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Ethics of AI
 
