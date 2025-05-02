@@ -4,7 +4,7 @@ title: "The Role of Algorithms in Polarization"
 authors: [martin-krutsky, jiri-nemecek, jakub-peleska]
 categories: [events, Prague]
 image: assets/images/cetep/affective-polarization.jpg
-tags: [sticky, featured]
+tags: [featured]
 ---
 
 On November 28, 2024, people from FEE CTU interested in Responsible AI gathered for a talk by [John Dorsch](https://cetep.eu/john-dorsch/) from the [Center for Environmental and Technology Ethics](https://cetep.eu/). He presented a thought-provoking topic exploring the relationship between algorithms and polarization. His presentation examined whether the algorithmic filtering employed by social media platforms contributes to ideological divides and what can be done to address it. Here, we unpack the key points from the event.
