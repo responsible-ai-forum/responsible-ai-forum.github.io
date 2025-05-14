@@ -3,7 +3,6 @@ layout: post
 title: "Responsible AI at Prague Discussion Group"
 author: rai-team
 categories: [ announcement, Prague ]
-image: assets/images/rai-team/introduction.jpg
 tags: [sticky]
 ---
 
