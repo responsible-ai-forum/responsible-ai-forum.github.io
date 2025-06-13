@@ -12,5 +12,5 @@ On May 22, we presented a poster summing up the current outcomes of our collabor
 _Human-AI alignment is challenging due to limitations in both technical solutions and governance frameworks. Given the infeasibility of properly anticipating all potential misalignment risks, we see explainability as essential for continuous oversight, bridging the gap between AI systems, governance, and human intervention. Recognizing the multi-faceted character of the problem, we argue for a structured framework for evaluating explainability methods, moving beyond narrow technical metrics, to enhance future developments in AI accountability and alignment._
 
 
-{% pdf "/assets/pdfs/poster2025_poster.pdf" %}
+{% pdf "/assets/pdfs/poster2025_poster.pdf" no_link %}
 
